@@ -1,19 +1,19 @@
-# 📘 Book Manager Frontend
+#  Book Manager Frontend
 
 This is the frontend for the **Book Manager** app built with React. It connects to a backend REST API to perform CRUD operations on a MongoDB database.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📚 View all books  
-- ➕ Add a new book (Title, Author, Year)  
-- 🔄 Auto-refresh book list on submission  
-- ⚡ Fast, responsive UI with React Hooks  
+-  View all books  
+-  Add a new book (Title, Author, Year)  
+-  Auto-refresh book list on submission  
+-  Fast, responsive UI with React Hooks  
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React (Create React App)  
 - **API Endpoint**: `http://localhost:5000/api/books`  
@@ -22,14 +22,14 @@ This is the frontend for the **Book Manager** app built with React. It connects 
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 cd frontend
 npm install
 ```
 
-### 🏁 Run Locally
+###  Run Locally
 
 ```bash
 npm start
@@ -37,7 +37,7 @@ npm start
 
 Make sure your backend is running (node server/app.js).
 
-### 🔁 API Proxy (Optional)
+###  API Proxy (Optional)
 
 In `frontend/package.json`:
 
@@ -53,7 +53,7 @@ fetch("/api/books")
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```pgsql
 frontend/
@@ -69,7 +69,7 @@ frontend/
 
 ---
 
-## 🧪 Example API Response
+##  Example API Response
 
 ```json
 [
