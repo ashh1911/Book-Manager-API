@@ -1,15 +1,15 @@
-# 📚 Book Manager API
+#  Book Manager API
 
 A simple RESTful API to manage a list of books using Node.js, Express.js, and MongoDB.
 
-## 🚀 Features
+##  Features
 
 - Add new books
 - View all books
 - Update book details
 - Delete books
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Backend: Node.js, Express.js
 - Database: MongoDB
@@ -17,7 +17,7 @@ A simple RESTful API to manage a list of books using Node.js, Express.js, and Mo
 
 ---
 
-## 📦 API Endpoints
+##  API Endpoints
 
 All endpoints are prefixed with `/api/books`
 
@@ -30,7 +30,7 @@ All endpoints are prefixed with `/api/books`
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Book Manager Api/
@@ -50,7 +50,7 @@ Book Manager Api/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 ### 1. Clone the repo
 
@@ -82,7 +82,7 @@ node server/app.js
 
 ---
 
-## 🧪 Sample Request
+##  Sample Request
 
 **POST /api/books**
 
@@ -96,6 +96,6 @@ node server/app.js
 
 ---
 
-## 📘 License
+##  License
 
 MIT
