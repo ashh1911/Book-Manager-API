@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>📚 Book Manager</h1>
+      <h1> Book Manager</h1>
       <form onSubmit={handleSubmit}>
         <input type="text" id="title" value={formData.title} onChange={handleChange} placeholder="Title" required />
         <input type="text" id="author" value={formData.author} onChange={handleChange} placeholder="Author" required />
